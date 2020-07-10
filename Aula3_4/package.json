@@ -1,5 +1,5 @@
 {
-  "name": "Aula2_4",
+  "name": "Aula3_4",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,11 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module",
   "dependencies": {
-    "dotenv": "^8.2.0",
-    "express": "^4.17.1",
-    "mongoose": "^5.9.21",
-    "require": "^2.4.20"
+    "dotenv": "^8.2.0"
   }
 }
